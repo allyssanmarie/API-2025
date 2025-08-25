@@ -20,7 +20,7 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 
 ## 🎯 Backlog do Produto
 
-📁 [Clique aqui para acessar o backlog completo](https://github.com/allyssanmarie/API-2025/blob/main/BACKLOG.md))
+📁 ([Clique aqui para acessar o backlog completo](https://github.com/allyssanmarie/API-2025/blob/main/BACKLOG.md))
 
 
 ## 📅 Tabela de Sprints
@@ -31,22 +31,23 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 | xx/xx - yy/yy | [Sprint 3](#)          | [Vídeo 3](#)               |
 
 
-## Solução Proposta
-* Priorização e Categorização de chamados por IA
-* Capacidade da IA de propor soluções dos chamados para Equipe de TI
-* Geração de relatórios mensais, semanais e anuais dos chamados
-* Criação de Usuario pelo Admin
+## 💡 Solução Proposta
+* ✅ Priorização e Categorização de chamados por IA
+* ✅ Capacidade da IA de propor soluções dos chamados para Equipe de TI
+* ✅ Geração de relatórios mensais, semanais e anuais dos chamados
+* ✅ Criação de Usuario pelo Admin
 
 
-## Tecnologias Utilizadas
+## 🤖 Tecnologias Utilizadas
 * <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 * <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah-00B4D8?style=for-the-badge&logo=astah&logoColor=white"/></a>
 * <a href="https://www.microsoft.com/en-us/sql-server/"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
 * <a href="https://www.brmodeloweb.com/lang/pt-br/index.html"><img src="https://img.shields.io/badge/Br%20Modelo-0078D7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml;base64,&logoColor=white"/></a>
 
-* ##  Equipe
+* ## 👥 Equipe
 | Nome                          | Papel         | GitHub                                    | LinkedIn                                                      |
 | ----------------------------- | ------------- |------------------------------------------ | ------------------------------------------------------------- |
 | Allyssan Marie Geraldo Castro | Scrum Master  |[GitHub](https://github.com/allyssanmarie) |[LinkedIn](https://www.linkedin.com/in/allyssan-marie/)
+
 
 
