@@ -30,6 +30,9 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 | xx/xx - yy/yy | [Sprint 2](#)          | [Vídeo 2](#)               |
 | xx/xx - yy/yy | [Sprint 3](#)          | [Vídeo 3](#)               |
 
+## <br>💡 Solução Proposta
+
+📁 ([Informações completas para solução proposta](https://github.com/allyssanmarie/API-2025/blob/main/Solu%C3%A7%C3%A3oProposta.md))
 
 ## <br>🤖 Tecnologias Utilizadas
 * <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
@@ -41,6 +44,7 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 | Nome                          | Papel         | GitHub                                    | LinkedIn                                                      |
 | ----------------------------- | ------------- |------------------------------------------ | ------------------------------------------------------------- |
 | Allyssan Marie Geraldo Castro | Scrum Master  |[GitHub](https://github.com/allyssanmarie) |[LinkedIn](https://www.linkedin.com/in/allyssan-marie/)
+
 
 
 
