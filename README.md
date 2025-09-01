@@ -44,6 +44,10 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 | Nome                          | Papel         | GitHub                                    | LinkedIn                                                      |
 | ----------------------------- | ------------- |------------------------------------------ | ------------------------------------------------------------- |
 | Allyssan Marie Geraldo Castro | Scrum Master  |[GitHub](https://github.com/allyssanmarie) |[LinkedIn](https://www.linkedin.com/in/allyssan-marie/)
+| Natalia                       | Desenvolvedor |[GitHub]()                                 |[LinkedIn]()
+| Gabriel                       | Desenvolvedor |[GitHub]()                                 |[LinkedIn]()
+
+
 
 
 
