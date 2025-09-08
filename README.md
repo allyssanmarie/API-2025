@@ -24,11 +24,17 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 
 
 ## <br>📅 Tabela de Sprints
-|    Período    | Link para Documentação | Link para Vídeo no YouTube |
-| ------------- | ---------------------- | -------------------------- |
-| xx/xx - xx/xx | [Sprint 1](#)          | [Vídeo 1](#)               |
-| xx/xx - yy/yy | [Sprint 2](#)          | [Vídeo 2](#)               |
-| xx/xx - yy/yy | [Sprint 3](#)          | [Vídeo 3](#)               |
+|    Período    | Link para Documentação | 
+| ------------- | ---------------------- | 
+| 08/09 - 14/09 | [Sprint 1]([#](https://github.com/allyssanmarie/API-2025/issues/1))|
+| 15/09 – 21/09 | [Sprint 2](#)          | 
+| 22/09 – 28/09 | [Sprint 3](#)          |
+| 29/09 – 05/10 | [Sprint 4](#)          |
+| 06/10 – 12/10 | [Sprint 5](#)          |
+| 13/10 – 19/10 | [Sprint 6](#)          |
+| 20/10 – 26/10 | [Sprint 7](#)          |
+| 27/10 – 02/11 | [Sprint 8](#)          |
+| 03/11 – 09/11 | [Sprint 9](#)          |
 
 ## <br>💡 Solução Proposta
 
@@ -46,6 +52,7 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 | Allyssan Marie Geraldo Castro | Scrum Master  |[GitHub](https://github.com/allyssanmarie) |[LinkedIn](https://www.linkedin.com/in/allyssan-marie/)
 | Natalia                       | Desenvolvedor |[GitHub]()                                 |[LinkedIn]()
 | Gabriel                       | Desenvolvedor |[GitHub]()                                 |[LinkedIn]()
+
 
 
 
