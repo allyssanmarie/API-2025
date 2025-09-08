@@ -38,7 +38,8 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 
 ## <br>📋 DoR | DoD
 
-📁 ([Documento](#))
+📁 ([Definition of Ready](https://github.com/allyssanmarie/API-2025/blob/main/DoR.md))
+<br> 📁 ([Definition of Done](https://github.com/allyssanmarie/API-2025/blob/main/DoD.md))
 
 
 ## <br>💡 Solução Proposta
@@ -57,6 +58,7 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 | Allyssan Marie Geraldo Castro | Scrum Master  |[GitHub](https://github.com/allyssanmarie) |[LinkedIn](https://www.linkedin.com/in/allyssan-marie/)
 | Natalia                       | Desenvolvedor |[GitHub]()                                 |[LinkedIn]()
 | Gabriel                       | Desenvolvedor |[GitHub]()                                 |[LinkedIn]()
+
 
 
 
