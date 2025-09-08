@@ -36,6 +36,11 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 | 27/10 – 02/11 | [Sprint 8](https://github.com/allyssanmarie/API-2025/issues/8)|
 | 03/11 – 09/11 | [Sprint 9](https://github.com/allyssanmarie/API-2025/issues/9)|
 
+## <br>📋 DoR | DoD
+
+📁 ([Documento](#))
+
+
 ## <br>💡 Solução Proposta
 
 📁 ([Informações completas para a implementação da solução proposta](https://github.com/allyssanmarie/API-2025/blob/main/Solu%C3%A7%C3%A3oProposta.md))
@@ -52,6 +57,7 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 | Allyssan Marie Geraldo Castro | Scrum Master  |[GitHub](https://github.com/allyssanmarie) |[LinkedIn](https://www.linkedin.com/in/allyssan-marie/)
 | Natalia                       | Desenvolvedor |[GitHub]()                                 |[LinkedIn]()
 | Gabriel                       | Desenvolvedor |[GitHub]()                                 |[LinkedIn]()
+
 
 
 
