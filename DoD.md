@@ -3,17 +3,16 @@
 ### Funcionalidade Implementada
 - Todas as funcionalidades da história implementadas conforme critérios de aceitação
 - Fluxo de criação, revisão e envio de chamados completo
-- Gestão de usuários implementada (criação, edição, exclusão, níveis de acesso)
+- Gestão de usuários implementada (criação, edição, níveis de acesso)
 - Classificação e encaminhamento automático via IA funcionando
 
 ### Testes Realizados
 - Testes unitários cobrem funcionalidades principais
-- Testes de integração e testes manuais realizados
 - Bugs críticos corrigidos
 
 ### Documentação Atualizada
-- Documentação técnica (comentários e README) atualizada
-- Documentação funcional disponível e revisada
+- Documentação técnica atualizada
+- Documentação funcional revisada
 
 ### Código Revisado
 - Código revisado e aprovado pelo time
