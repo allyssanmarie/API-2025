@@ -6,7 +6,7 @@ Fatal System - Gerenciamentos de Chamados
 Trabalho referente ao Projeto Integrado Multidisciplinar do curso de Análise e Desenvolvimento de Sistemas da  UNIP  São José dos Campos, criado em equipe.
 
 <p align="center">
-      <img src="[https://media.githubusercontent.com/media/Frederico-Dellu/UML-Gerenciamento-de-chamados/main/docs/img/Fatal_System_Logo_FINAL.png]" alt="logo da Fatal System" width="400">
+      <img src="https://avatars.githubusercontent.com/u/203549358?v=4" alt="logo da Fatal System" width="400">
       <h2 align="center"> Fatal System</h2>
 
 ## 🚧 Desafio <a id="desafio"></a>
@@ -59,6 +59,7 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 | Allyssan Marie Geraldo Castro | Scrum Master  |[GitHub](https://github.com/allyssanmarie) |[LinkedIn](https://www.linkedin.com/in/allyssan-marie/)
 | Natalia                       | Desenvolvedor |[GitHub]()                                 |[LinkedIn]()
 | Gabriel                       | Desenvolvedor |[GitHub]()                                 |[LinkedIn]()
+
 
 
 
