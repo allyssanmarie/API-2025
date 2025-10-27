@@ -47,11 +47,12 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 
 📁 ([Informações completas para a implementação da solução proposta](https://github.com/allyssanmarie/API-2025/blob/main/Solu%C3%A7%C3%A3oProposta.md))
 
-## <br>🤖 Tecnologias Utilizadas
+## <br>🖥️ Tecnologias Utilizadas
 * <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 * <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah-00B4D8?style=for-the-badge&logo=astah&logoColor=white"/></a>
 * <a href="https://www.microsoft.com/en-us/sql-server/"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
 * <a href="https://www.brmodeloweb.com/lang/pt-br/index.html"><img src="https://img.shields.io/badge/Br%20Modelo-0078D7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml;base64,&logoColor=white"/></a>
+* <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
 ## <br> 👥 Equipe
 | Nome                          | Papel         | GitHub                                    | LinkedIn                                                      |
@@ -59,6 +60,7 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 | Allyssan Marie Geraldo Castro | Scrum Master  |[GitHub](https://github.com/allyssanmarie) |[LinkedIn](https://www.linkedin.com/in/allyssan-marie/)
 | Natalia                       | Desenvolvedor |[GitHub]()                                 |[LinkedIn]()
 | Gabriel                       | Desenvolvedor |[GitHub]()                                 |[LinkedIn]()
+
 
 
 
