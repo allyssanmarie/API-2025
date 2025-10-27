@@ -47,7 +47,7 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 📁 [Informações Detalhadas](https://github.com/allyssanmarie/API-2025/blob/main/manual.md)
 
 ## <br>🗃️ Pasta de Documentação <a id="docs"></a>
-📁 [Documentação](https://github.com/allyssanmarie/API-2025/blob/main/manual.md)
+📁 [Documentação](https://github.com/allyssanmarie/API-2025/tree/main/docs)
 
 ## <br>🖥️ Tecnologias Utilizadas <a id="tecnologias"></a>
 
@@ -65,6 +65,7 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 ## 📖 Manual de Instalação <a id="manual"></a>
 
 📁[Manual de Instalação Detalhado](https://github.com/allyssanmarie/API-2025/blob/main/manual.md)
+
 
 
 
