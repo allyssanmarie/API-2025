@@ -37,7 +37,7 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 📁 ([Planejamento das Sprints](https://github.com/allyssanmarie/API-2025/blob/main/cronograma.md))
 
 
-## <br>💡 Solução Proposta <a id="solucao"></a>
+## <br>💡 Estrutura do Projeto <a id="solucao"></a>
 
 📁 ([Informações completas para a implementação da solução proposta](https://github.com/allyssanmarie/API-2025/blob/main/Solu%C3%A7%C3%A3oProposta.md))
 
@@ -57,6 +57,7 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 ## 📖 Manual de Instalação <a id="manual"></a>
 
 📁[Manual de Instalação Detalhado](https://github.com/allyssanmarie/API-2025/blob/main/manual.md)
+
 
 
 
