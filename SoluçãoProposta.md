@@ -5,4 +5,4 @@
 * ✅ Criação de Usuario pelo Admin
 
 ## 📌 Diagramas
-* [Diagramas disponíveis](https://github.com/allyssanmarie/API-2025/blob/main/diagrama%20caso%20de%20uso.asta)
+* [Diagramas disponíveis](https://github.com/allyssanmarie/API-2025/blob/main/diagramas%20api.asta)
