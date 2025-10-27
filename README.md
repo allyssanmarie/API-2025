@@ -1,4 +1,4 @@
-# 🛠️ API-2025
+🛠️ API-2025
 
 Fatal System - Gerenciamentos de Chamados
 
@@ -9,15 +9,15 @@ Trabalho referente ao Projeto Integrado Multidisciplinar do curso de Análise e 
       <img src="https://avatars.githubusercontent.com/u/203549358?v=4" alt="logo da Fatal System" width="200">
       <h2 align="center"> Fatal System</h2>
 
-<p align="center">
- | <a href="#desafio">Desafio</a> | 
- <a href="#backlog">Backlog do Produto</a> |
- <a href="#sprints">Tabela de Sprints</a> |
- <a href="#solucao">Solução Proposta</a> |
- <a href="#tecnologias">Tecnologias Utilizadas</a> |
- <a href="#equipe">Equipe</a> |
- <a href="#dordod">DoR | DoD</a> |
-</p>      
+## 🔍 Navegação 
+ * [Desafio](#desafio) 
+ * [Backlog do Produto](#backlog)
+ * [Tabela de Sprints](#sprints)
+ * [Solução Proposta](#solucao)
+ * [Tecnologias Utilizadas](#tecnologias)
+ * [Equipe](#equipe)
+ * [DoR | DoD](#dordod)
+ * [Manual de Instalação](#manual)   
 
 ## 🚧 Desafio <a id="desafio"></a>
 O desafio consiste em desenvolver um sistema de gerenciamento de chamados que utilize Inteligência Artificial (IA) para triagem automática.
@@ -47,12 +47,17 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 
 ## <br> 👥 Equipe <a id="equipe"></a>
 
-📁 ([Desenvolvedores](https://github.com/allyssanmarie/API-2025/blob/main/equipe.md))
+📁 ([Desenvolvedores do Projeto](https://github.com/allyssanmarie/API-2025/blob/main/equipe.md))
 
 ## <br>📋 DoR | DoD <a id="dordod"></a>
 
 📁 ([Definition of Ready](https://github.com/allyssanmarie/API-2025/blob/main/DoR.md))
 <br> 📁 ([Definition of Done](https://github.com/allyssanmarie/API-2025/blob/main/DoD.md))
+
+## 📖 Manual de Instalação <a id="manual"></a>
+
+📁[Manual de Instalação Detalhado](https://github.com/allyssanmarie/API-2025/blob/main/manual.md)
+
 
 
 
