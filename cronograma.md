@@ -1,3 +1,9 @@
+## <br>📘 Planejamento de Sprints
+
+Esta seção apresenta o cronograma de sprints do projeto, com os respectivos períodos de execução e links para a documentação detalhada de cada uma.
+O planejamento tem como objetivo acompanhar o progresso das entregas semanais, garantindo organização, rastreabilidade e transparência durante todo o ciclo de desenvolvimento.
+<br>
+
 ## <br>📅 Tabela de Sprints <a id="sprints"></a>
 |    Período    | Link para Documentação | 
 | ------------- | ---------------------- | 
