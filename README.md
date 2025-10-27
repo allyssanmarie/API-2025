@@ -14,6 +14,8 @@ Trabalho referente ao Projeto Integrado Multidisciplinar do curso de Análise e 
  * [Backlog do Produto](#backlog)
  * [Tabela de Sprints](#sprints)
  * [Estrutura do Projeto](#estrutura)
+ * [Como Executar, Usar e Testar o Projeto](#executar)
+ * [Pasta de Documentação](#docs)
  * [Tecnologias Utilizadas](#tecnologias)
  * [Equipe](#equipe)
  * [DoR | DoD](#dordod)
@@ -30,33 +32,40 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 
 ## <br>🎯 Backlog do Produto <a id="backlog"></a>
 
-📁 ([Clique aqui para acessar o backlog completo](https://github.com/allyssanmarie/API-2025/blob/main/BACKLOG.md))
+📁 [Clique aqui para acessar o backlog completo](https://github.com/allyssanmarie/API-2025/blob/main/BACKLOG.md)
 
 
 ## <br>📅 Tabela de Sprints <a id="sprints"></a>
-📁 ([Planejamento das Sprints](https://github.com/allyssanmarie/API-2025/blob/main/cronograma.md))
+📁 [Planejamento das Sprints](https://github.com/allyssanmarie/API-2025/blob/main/cronograma.md)
 
 
 ## <br>💡 Estrutura do Projeto <a id="estrutura"></a>
 
-📁 ([Informações completas para a estrutura do projeto](https://github.com/allyssanmarie/API-2025/blob/main/EstruturaProjeto.md))
+📁 [Informações completas para a estrutura do projeto](https://github.com/allyssanmarie/API-2025/blob/main/EstruturaProjeto.md)
+
+## <br>📌 Como Executar, Usar e Testar o Projeto <a id="executar"></a>
+📁 [Informações Detalhadas](https://github.com/allyssanmarie/API-2025/blob/main/manual.md)
+
+## <br>🗃️ Pasta de Documentação <a id="docs"></a>
+📁 [Documentação](https://github.com/allyssanmarie/API-2025/blob/main/manual.md)
 
 ## <br>🖥️ Tecnologias Utilizadas <a id="tecnologias"></a>
 
-📁 ([Tecnologias](https://github.com/allyssanmarie/API-2025/blob/main/tecnologia.md))
+📁 [Tecnologias](https://github.com/allyssanmarie/API-2025/blob/main/tecnologia.md)
 
 ## <br> 👥 Equipe <a id="equipe"></a>
 
-📁 ([Desenvolvedores do Projeto](https://github.com/allyssanmarie/API-2025/blob/main/equipe.md))
+📁 [Desenvolvedores do Projeto](https://github.com/allyssanmarie/API-2025/blob/main/equipe.md)
 
 ## <br>📋 DoR | DoD <a id="dordod"></a>
 
-📁 ([Definition of Ready](https://github.com/allyssanmarie/API-2025/blob/main/DoR.md))
-<br> 📁 ([Definition of Done](https://github.com/allyssanmarie/API-2025/blob/main/DoD.md))
+📁 [Definition of Ready](https://github.com/allyssanmarie/API-2025/blob/main/DoR.md)
+<br> 📁 [Definition of Done](https://github.com/allyssanmarie/API-2025/blob/main/DoD.md)
 
 ## 📖 Manual de Instalação <a id="manual"></a>
 
 📁[Manual de Instalação Detalhado](https://github.com/allyssanmarie/API-2025/blob/main/manual.md)
+
 
 
 
