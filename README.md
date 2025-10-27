@@ -13,7 +13,7 @@ Trabalho referente ao Projeto Integrado Multidisciplinar do curso de Análise e 
  * [Desafio](#desafio) 
  * [Backlog do Produto](#backlog)
  * [Tabela de Sprints](#sprints)
- * [Solução Proposta](#solucao)
+ * [Estrtura do Projeto](#estrutura)
  * [Tecnologias Utilizadas](#tecnologias)
  * [Equipe](#equipe)
  * [DoR | DoD](#dordod)
@@ -37,9 +37,9 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 📁 ([Planejamento das Sprints](https://github.com/allyssanmarie/API-2025/blob/main/cronograma.md))
 
 
-## <br>💡 Estrutura do Projeto <a id="solucao"></a>
+## <br>💡 Estrutura do Projeto <a id="estrutura"></a>
 
-📁 ([Informações completas para a implementação da solução proposta](https://github.com/allyssanmarie/API-2025/blob/main/Solu%C3%A7%C3%A3oProposta.md))
+📁 ([Informações completas para a estrutura do projeto](https://github.com/allyssanmarie/API-2025/blob/main/EstruturaProjeto.md))
 
 ## <br>🖥️ Tecnologias Utilizadas <a id="tecnologias"></a>
 
@@ -57,6 +57,7 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 ## 📖 Manual de Instalação <a id="manual"></a>
 
 📁[Manual de Instalação Detalhado](https://github.com/allyssanmarie/API-2025/blob/main/manual.md)
+
 
 
 
