@@ -13,10 +13,10 @@ Trabalho referente ao Projeto Integrado Multidisciplinar do curso de Análise e 
  | <a href="#desafio">Desafio</a> |
  <a href="#solucao">Solução Proposta</a> | 
  <a href="#backlog">Backlog do Produto</a> |
- <a href="#dordod">DoR | DoD</a> |
  <a href="#sprints">Tabela de Sprints</a> |
  <a href="#tecnologias">Tecnologias Utilizadas</a> | 
  <a href="#equipe">Equipe</a> |
+ <a href="#dordod">DoR | DoD</a> |
 </p>      
 
 ## 🚧 Desafio <a id="desafio"></a>
@@ -53,6 +53,7 @@ O principal objetivo do sistema é otimizar o fluxo de atendimento, reduzir a so
 
 📁 ([Definition of Ready](https://github.com/allyssanmarie/API-2025/blob/main/DoR.md))
 <br> 📁 ([Definition of Done](https://github.com/allyssanmarie/API-2025/blob/main/DoD.md))
+
 
 
 
