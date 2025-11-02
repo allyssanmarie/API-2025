@@ -5,7 +5,7 @@ O planejamento tem como objetivo acompanhar o progresso das entregas semanais, g
 <br>
 
 ## <br>📅 Tabela de Sprints <a id="sprints"></a>
-|    Período    | Link para Documentação | 
+|    Período    | Link | 
 | ------------- | ---------------------- | 
 | 08/09 - 14/09 | [Sprint 1](https://github.com/allyssanmarie/API-2025/issues/1)|
 | 15/09 – 21/09 | [Sprint 2](https://github.com/allyssanmarie/API-2025/issues/2)| 
