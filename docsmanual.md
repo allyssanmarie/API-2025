@@ -16,7 +16,7 @@
 ### 1. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/Frederico-Dellu/Gerenciamento-de-chamados.git](https://github.com/Frederico-Dellu/Gerenciamento-de-chamados.git)
+git clone [https://github.com/allyssanmarie/Gerenciamento-de-chamados.git](https://github.com/allyssanmarie/Gerenciamento-de-chamados)
 cd Gerenciamento-de-chamados
 ```
 ---
